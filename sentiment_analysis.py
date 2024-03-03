@@ -12,7 +12,7 @@ The following instalations in cmd are required to run this code:
 * pip install spacytextblob
 * python -m textblob.download_corpora
 '''
-
+# Addede comment for github testing
 # For getting computing time of testing
 import time
 # For natural language processing (NLP)
