@@ -16,7 +16,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/jsymonowicz/finalCapstone.git
+   git clone https://github.com/jsymonowicz/ML--Review-Sentiment-Analysis-Model
    ```
 
 2. **Install dependencies:**
